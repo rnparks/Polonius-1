@@ -1,2 +1,4 @@
-"alas poor yorik, i knew him well"
-"i added one more comment as a pull test"
+puts "Please enter your name:"
+name=gets.chomp
+puts "alas poor #{name}, i knew him well"
+
