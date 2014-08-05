@@ -1,1 +1,1 @@
-print "Come hither, hostess"
+puts "Come hither, hostess"
